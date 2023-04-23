@@ -1,7 +1,7 @@
 Hi 👋 My name is Daley Jones
 ============================
 
-Hi, I'm a web development student currently enrolled in a bootcamp to pursue my passion for coding and technology. I have a strong interest in designing and building websites and applications that are both visually appealing and highly functional. Throughout my studies, I have gained experience in a variety of programming languages, including HTML, CSS, and JavaScript, as well as frameworks such as React and Node.js. My ultimate goal is to use my skills to create innovative and user-friendly web experiences that can make a positive impact on people's lives
+Hi, I'm a web development student currently enrolled in a bootcamp to pursue my passion for coding and technology. I have a strong interest in designing and building websites and applications that are both visually appealing and highly functional. Throughout my studies, I have gained experience in a variety of programming languages, including HTML, CSS, and JavaScript. My ultimate goal is to use my skills to create innovative and user-friendly web experiences that can make a positive impact on people's lives.
 
 * 🌍  I'm based in Birminingham, United Kingdom
 * 🖥️  See my portfolio at [https://daleyjones.github.io/daleys-portfolio-codeZ/] 
